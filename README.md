@@ -1,2 +1,2 @@
 # BookStore
-Book store application applied on django for professionals book
+A bookstore web application is implemented based on django for professionals book
